@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mbatorek7/react-portfolio/issues"
   },
-  "homepage": "https://github.com/mbatorek7/react-portfolio#readme"
+  "homepage": "https://github.com/mbatorek7/react-portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
 }
