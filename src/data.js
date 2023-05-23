@@ -27,7 +27,7 @@ export const projects = [
     title: "Work Day Scheduler",
     subtitle: "Third-Party APIs",
     description:
-      "This application is designed to let you easily manage your busy workday schedule. It allows you to see the exact date and time at the top. With that in mind, you will also be able to see which timeslots have past, which one is the present, and which timeslots are upcoming based on the colors. The user can input their tasks into a timeslot, but the task will not be saved unless the user presses the save button. Once saved, the user can close the application and reopen it later to see their tasks. If the user wishes to clear their schedule for the day, they can do so with the clear schedule button at the top of the page.",
+      "This application is designed to let you easily manage your busy workday schedule. It allows you to see the exact date and time at the top. With that in mind, you will also be able to see which timeslots have past, which one is the present, and which timeslots are upcoming based on the colors.",
     image: "./project-4.gif",
     link: "https://mbatorek7.github.io/hw5-workday-scheduler/",
   },
@@ -41,4 +41,7 @@ export const skills = [
   "MySQL",
   "GitHub",
   "MATLAB",
+  "Arduino",
+  "UML",
+  "Maple"
 ];
