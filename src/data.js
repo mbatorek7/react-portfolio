@@ -19,7 +19,7 @@ export const projects = [
     title: "E-commerce Back End",
     subtitle: "Object-relational mapping",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "With this project, the user can get all categories, products, or tags along with related information. The user can also obtain a singular category, product, or tag by ID and they can delete or update by ID as well. The user can also create a new category, product, or tag.",
     image: "./project-3.gif",
     link: "https://github.com/mbatorek7/hw13-ORM",
   },
